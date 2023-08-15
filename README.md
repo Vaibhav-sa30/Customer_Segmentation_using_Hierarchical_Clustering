@@ -64,10 +64,10 @@ In a dendrogram, the vertical axis represents the distance or dissimilarity betw
 
 - [Complete Project Report](https://drive.google.com/file/d/1MVVOznVKeuGN8oZR9a9Kz08KY-d-SKMX/view?usp=sharing)
 
-- Checkout the [complete project walkthrough on My Website](https://sites.google.com/view/vaibhavsatish/home)
+- [Complete Project Walkthrough on My Website](https://sites.google.com/view/vaibhavsatish/home)
 
-- Give a read to [Broad Brush on HAC from My Blog](https://vaibhavsatish.substack.com/p/learn-and-implement-hierarchical)
+- [Project Blog](https://vaibhavsatish.substack.com/p/learn-and-implement-hierarchical)
 
 - [Link to Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
-- Scikit Learn hierarchical Clustering [Documentation link](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+- [Scikit Learn hierarchical Clustering Documentation link](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)

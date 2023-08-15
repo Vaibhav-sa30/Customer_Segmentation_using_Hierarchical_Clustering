@@ -57,5 +57,5 @@ The question now here is, How do we visualize this hierarchical decomposition of
 comes into picture. Dendrogram is a tree-like diagram which records the sequences of merges or splits happen as the algorithm runs. By moving up from the bottom layer to the top node, a dendrogram allows us to reconstruct the history of merges that resulted in the depicted clustering.
 In a dendrogram, the vertical axis represents the distance or dissimilarity between the objects being clustered, and the horizontal axis shows the objects themselves or the groups of objects at each level of the hierarchy. As you move down the dendrogram, the branches represent the groups of objects that are more and more similar to each other. The height of each branch in the dendrogram represents the distance or dissimilarity between the groups of objects being joined together. 
 
-(continue reading)[https://vaibhavsatish.substack.com/p/learn-and-implement-hierarchical?justPublished=true&embeddedPostPublications=&autoSharedOnTwitter=true]
+...[continue reading](https://vaibhavsatish.substack.com/p/learn-and-implement-hierarchical?justPublished=true&embeddedPostPublications=&autoSharedOnTwitter=true)
 
